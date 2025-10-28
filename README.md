@@ -66,7 +66,7 @@ Visualized results using Plotly.
 Deployed to Streamlit Cloud.
 🚀 How to Run Locally
 Clone the repository
-git clone https://github.com/Gurpreet0022/carboncurve.git
+git clone https:
 cd carboncurve
 Install dependencies
 pip install -r requirements.txt
